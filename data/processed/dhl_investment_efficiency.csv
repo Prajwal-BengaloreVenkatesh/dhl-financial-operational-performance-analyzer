@@ -1,0 +1,11 @@
+year,segment,external_revenue_eur_m,ebit_eur_m,segment_assets_eur_m,capex_assets_eur_m,capex_rou_eur_m,total_capex_eur_m,depreciation_amortization_eur_m,acquired_capex_intensity_pct,total_capex_intensity_pct,asset_intensity_pct,capex_to_da_ratio
+2024,Express,24511,3084,21303,1044,1105,2149,1834,4.26,8.77,86.91,1.17
+2025,Express,23805,3162,20768,874,1587,2461,1817,3.67,10.34,87.24,1.35
+2024,Global Forwarding Freight,18403,1074,12113,158,207,365,352,0.86,1.98,65.82,1.04
+2025,Global Forwarding Freight,17302,756,11190,101,196,298,335,0.58,1.72,64.67,0.89
+2024,Post & Parcel Germany,16893,821,9883,933,122,1055,637,5.52,6.25,58.5,1.66
+2025,Post & Parcel Germany,17405,1032,10296,1035,162,1197,689,5.95,6.88,59.16,1.74
+2024,Supply Chain,17584,1068,11080,531,1055,1586,1049,3.02,9.02,63.01,1.51
+2025,Supply Chain,17689,1161,12084,561,1038,1600,1187,3.17,9.05,68.31,1.35
+2024,eCommerce,6787,281,3847,288,261,550,286,4.24,8.1,56.68,1.92
+2025,eCommerce,6649,379,4197,252,139,391,287,3.79,5.88,63.12,1.36

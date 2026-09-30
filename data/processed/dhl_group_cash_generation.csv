@@ -1,0 +1,6 @@
+year,data_status,revenue_eur_m,ebit_eur_m,net_profit_eur_m,operating_cash_flow_eur_m,free_cash_flow_eur_m,capex_eur_m,equity_ratio_pct,net_debt_eur_m,source_id,revenue_growth_pct,ebit_margin_pct,capex_intensity_pct,ocf_margin_pct,cash_conversion_pct,fcf_margin_pct
+2021,adjusted,81747,7978,5053,9993,4092,3895,30.7,12772,DHL_2025_KEYFIGURES,,9.76,4.76,12.22,125.26,5.01
+2022,adjusted,94436,8436,5359,10965,3067,4123,34.6,15856,DHL_2025_KEYFIGURES,15.52,8.93,4.37,11.61,129.98,3.25
+2023,adjusted,81758,6343,3675,9258,2942,3370,34.2,17739,DHL_2025_KEYFIGURES,-13.42,7.76,4.12,11.32,145.96,3.6
+2024,adjusted,84186,5886,3332,8722,2944,3066,34.6,18998,DHL_2025_KEYFIGURES,2.97,6.99,3.64,10.36,148.18,3.5
+2025,reported,82855,6103,3501,9119,2295,2950,31.9,21516,DHL_2025_KEYFIGURES,-1.58,7.37,3.56,11.01,149.42,2.77

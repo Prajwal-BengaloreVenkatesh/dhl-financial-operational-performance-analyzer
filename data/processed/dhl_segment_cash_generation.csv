@@ -1,0 +1,11 @@
+year,segment,external_revenue_eur_m,ebit_eur_m,operating_cash_flow_eur_m,ocf_margin_pct,cash_conversion_pct
+2024,Express,24511,3084,4830,19.71,156.61
+2025,Express,23805,3162,5125,21.53,162.08
+2024,Global Forwarding Freight,18403,1074,792,4.3,73.74
+2025,Global Forwarding Freight,17302,756,994,5.75,131.48
+2024,Post & Parcel Germany,16893,821,1562,9.25,190.26
+2025,Post & Parcel Germany,17405,1032,1630,9.37,157.95
+2024,Supply Chain,17584,1068,2340,13.31,219.1
+2025,Supply Chain,17689,1161,2045,11.56,176.14
+2024,eCommerce,6787,281,593,8.74,211.03
+2025,eCommerce,6649,379,439,6.6,115.83

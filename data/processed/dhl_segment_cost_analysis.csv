@@ -1,0 +1,11 @@
+year,segment,total_revenue_eur_m,material_expense_eur_m,staff_costs_eur_m,depreciation_amortization_eur_m,ebit_eur_m,material_cost_pct,staff_cost_pct,d_and_a_pct,ebit_margin_pct
+2024,Express,25134,12623,6317,1834,3084,50.22,25.13,7.3,12.27
+2025,Express,24430,11654,6366,1817,3162,47.7,26.06,7.44,12.94
+2024,Global Forwarding Freight,19649,15560,2589,352,1074,79.19,13.18,1.79,5.47
+2025,Global Forwarding Freight,18643,14778,2553,335,756,79.27,13.69,1.8,4.06
+2024,Post & Parcel Germany,17347,6081,9119,637,821,35.06,52.57,3.67,4.73
+2025,Post & Parcel Germany,17874,6151,9206,689,1032,34.41,51.5,3.85,5.77
+2024,Supply Chain,17693,6883,7772,1049,1068,38.9,43.93,5.93,6.04
+2025,Supply Chain,17778,6880,7629,1187,1161,38.7,42.91,6.68,6.53
+2024,eCommerce,6962,4948,1222,286,281,71.07,17.55,4.11,4.04
+2025,eCommerce,6884,4932,1227,287,379,71.64,17.82,4.17,5.51
