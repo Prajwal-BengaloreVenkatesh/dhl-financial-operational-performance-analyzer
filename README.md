@@ -353,13 +353,14 @@ These observations describe reported data and analyst calculations; they do not 
 \## 📊 Power BI Dashboard
 
 
-
 The Power BI report contains three pages:
 
 
 
 \### 1. Executive Overview
 
+
+![DHL Executive Overview](images/dashboard_executive_overview.png)
 
 
 Provides the Group-level financial snapshot and five-year trends.
@@ -387,6 +388,8 @@ Key measures include:
 \### 2. Segment Performance
 
 
+![DHL Segment Performance](images/dashboard_segment_performance.png)
+
 
 Compares DHL's five operating divisions using:
 
@@ -410,6 +413,8 @@ Compares DHL's five operating divisions using:
 
 \### 3. Operations \& Investment
 
+
+![DHL Operations & Investment](images/dashboard_operations_investment.png)
 
 
 Analyzes:
